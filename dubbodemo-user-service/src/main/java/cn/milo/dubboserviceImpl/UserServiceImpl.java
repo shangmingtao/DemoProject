@@ -19,7 +19,7 @@ public class UserServiceImpl implements UserService{
         tUser user = new tUser();
         user.setUsernama(username);
         if (username.equals("milo")){
-            user.setName("hello milo hahahaha houhouhou~");
+            user.setName("hello milo hahahaha houhouhou~ qiuqiuqiu~");
         }else{
             user.setName("hello guest");
         }
