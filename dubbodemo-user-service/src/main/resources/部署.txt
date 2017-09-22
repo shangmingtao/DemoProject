@@ -1,0 +1,4 @@
+nohup  java -jar dubbodemo-user-service-1.0-SNAPSHOT.jar >/dev/null &
+nohup 代表退出shell
+>/dev/null 把日志放入黑洞
+& 后台运行,如果不加这个,ctrl+c会停止程序

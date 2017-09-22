@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/dubbodemo-common/dubbodemo-common.iml" filepath="$PROJECT_DIR$/dubbodemo-common/dubbodemo-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubbodemo-common-config/dubbodemo-common-config.iml" filepath="$PROJECT_DIR$/dubbodemo-common-config/dubbodemo-common-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubbodemo-common-core/dubbodemo-common-core.iml" filepath="$PROJECT_DIR$/dubbodemo-common-core/dubbodemo-common-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubbodemo-common-parent.iml" filepath="$PROJECT_DIR$/dubbodemo-common-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubbodemo-common-web/dubbodemo-common-web.iml" filepath="$PROJECT_DIR$/dubbodemo-common-web/dubbodemo-common-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubbodemo-user-facede/dubbodemo-user-facede.iml" filepath="$PROJECT_DIR$/dubbodemo-user-facede/dubbodemo-user-facede.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubbodemo-user-service/dubbodemo-user-service.iml" filepath="$PROJECT_DIR$/dubbodemo-user-service/dubbodemo-user-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubbodemo-user-web/dubbodemo-user-web.iml" filepath="$PROJECT_DIR$/dubbodemo-user-web/dubbodemo-user-web.iml" />
+    </modules>
+  </component>
+</project>
