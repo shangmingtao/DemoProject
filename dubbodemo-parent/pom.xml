@@ -6,7 +6,8 @@
 	<artifactId>dubbodemo-common-parent</artifactId>
 	<version>1.0-SNAPSHOT</version>
 	<packaging>pom</packaging>
-
+	
+	<!--
 	<modules>
 		<module>dubbodemo-user-service</module>
 		<module>dubbodemo-user-web</module>
@@ -16,6 +17,7 @@
 		<module>dubbodemo-common-core</module>
 		<module>dubbodemo-common-web</module>
 	</modules>
+	-->
 
 
 	<name>dubbodemo-commom-parent</name>
