@@ -3,7 +3,7 @@ package cn.milo.dao;
 import java.io.Serializable;
 
 /**
- * Created by mac on 2017/9/19.
+ * Created by mac on 2017/9/19111.
  */
 public class tUser implements Serializable {
 
