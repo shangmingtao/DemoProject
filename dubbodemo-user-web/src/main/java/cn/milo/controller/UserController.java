@@ -24,7 +24,7 @@ public class UserController {
 
     @RequestMapping("/user")
     public String User(String username, HttpServletRequest request, HttpServletResponse response){
-        log.info("userController Be Visited");
+        log.info("userController Be Visited1");
         request.setAttribute("username",userService.getUser(username).getName());
         return "user";
     }
