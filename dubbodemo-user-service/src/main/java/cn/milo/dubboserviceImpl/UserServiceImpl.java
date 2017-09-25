@@ -6,7 +6,7 @@ import org.apache.log4j.Logger;
 import org.springframework.stereotype.Service;
 
 /**
- * Created by mac on 2017/9/17.1
+ * Created by mac on 2017/9/17.
  */
 
 @Service("userFacede")
@@ -19,7 +19,7 @@ public class UserServiceImpl implements UserService{
         tUser user = new tUser();
         user.setUsernama(username);
         if (username.equals("milo")){
-            user.setName("hello milo qiuqiuqiu~ siusiusiu~ piapiapia~  aa");
+            user.setName("hello milo");
         }else{
             user.setName("hello guest");
         }

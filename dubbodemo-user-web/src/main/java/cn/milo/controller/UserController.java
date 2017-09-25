@@ -11,7 +11,6 @@ import javax.servlet.http.HttpServletResponse;
 
 /**
  * Created by mac on 2017/9/17.
- * 12345
  */
 
 @Controller
@@ -24,7 +23,7 @@ public class UserController {
 
     @RequestMapping("/user")
     public String User(String username, HttpServletRequest request, HttpServletResponse response){
-        log.info("userController Be Visited1");
+        log.info("userController Be Visited");
         request.setAttribute("username",userService.getUser(username).getName());
         return "user";
     }
