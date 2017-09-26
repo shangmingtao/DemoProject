@@ -1,13 +1,13 @@
 package cn.milo.dao;
 
 /**
- * Hello world!123
+ * Hello world!
  *
  */
 public class App 
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hello12222 World111!" );
+        System.out.println( "Hello World!" );
     }
 }

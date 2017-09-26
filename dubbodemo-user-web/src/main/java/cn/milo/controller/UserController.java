@@ -10,8 +10,7 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
 /**
- * Created by mac on 2017/9/11271.2223333
- * 12345
+ * Created by mac on 2017/9/17.
  */
 
 @Controller
@@ -24,7 +23,7 @@ public class UserController {
 
     @RequestMapping("/user")
     public String User(String username, HttpServletRequest request, HttpServletResponse response){
-        log.info("userController Be Visited 1");
+        log.info("userController Be Visited");
         request.setAttribute("username",userService.getUser(username).getName());
         return "user";
     }
